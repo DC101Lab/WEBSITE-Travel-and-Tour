@@ -1,6 +1,8 @@
 WEBSITE TRAVEL AND TOUR
 =======================
  Website ini merupakan Prototype website travel , untuk mempermudah tourist luar kota yang akan mengunjungi daerah banyumas.
+ 
+ 
  Getting started
 ---------------
  introduction :
@@ -10,4 +12,4 @@ WEBSITE TRAVEL AND TOUR
     
  Example : 
 =========
-<img src="asset/img/src" height="300" width="500"/>
+<img src="asset/img/src/example.png" height="300" width="500"/>
